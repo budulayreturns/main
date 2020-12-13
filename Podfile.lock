@@ -1,0 +1,21 @@
+PODS:
+  - DSHFirstPrint (0.0.1)
+
+DEPENDENCIES:
+  - "DSHFirstPrint (from `git@github.com:budulayreturns/DSHFirstPrint.git`)"
+
+EXTERNAL SOURCES:
+  DSHFirstPrint:
+    :git: "git@github.com:budulayreturns/DSHFirstPrint.git"
+
+CHECKOUT OPTIONS:
+  DSHFirstPrint:
+    :commit: cd507394dc84c2d88eef37bf7630e023a7453586
+    :git: "git@github.com:budulayreturns/DSHFirstPrint.git"
+
+SPEC CHECKSUMS:
+  DSHFirstPrint: 43a3f284c242d0e47d81319cc8dc7ae19b3bc54a
+
+PODFILE CHECKSUM: be4532110b773c2e79b17aa97b63d2fe3e2ceae0
+
+COCOAPODS: 1.9.3

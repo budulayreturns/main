@@ -7,6 +7,6 @@ target 'main' do
 
   # Pods for main
 
-pod 'pod1'
+pod 'DSHFirstPrint', :git => "git@github.com:budulayreturns/DSHFirstPrint.git"
 
 end
